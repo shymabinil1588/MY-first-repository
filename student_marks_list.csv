@@ -1,0 +1,17 @@
+Student,Marks,(Xi-mean)^2
+A,10,529
+B,20,169
+C,20,169
+D,30,9
+E,30,9
+F,30,9
+G,40,49
+H,40,49
+I,50,289
+J,60,729
+,,2010
+mean,33,
+median,30,
+mode,30,
+standard deviation,201,
+variance,223.3333333,
